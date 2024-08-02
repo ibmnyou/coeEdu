@@ -6,7 +6,7 @@ resources:
 
 images:
   - name: acrtestap01.azurecr.io/frontend-vue # 이미지 주소 변경필요
-    newTag: main-20240712064845
+    newTag: main-20240802064145
 
 commonLabels:
   app: frontend-vue
